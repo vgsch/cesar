@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// Space complexity O(n)
+// Time complexity O(n)
+
 int main(int argc, char* argv[])
 {
     int i = 0, a[25] = {0}, b[25] = {0}, aux = 0;
